@@ -1,9 +1,7 @@
 # Structural-Brain-Network
-Implementation of Graph-based network analysis of the structural network of the brain.
+Implementation of Graph-based network analysis of the structural network of the brain (only cortical areas are considered - 68 Regions of Interest)
 
-- Only cortical areas are considered - 68 Regions of Interest (ROIs)
-
-- Data comes from: http://umcd.humanconnectomeproject.org/
+Data comes from: http://umcd.humanconnectomeproject.org/
 
 
 ### References:
